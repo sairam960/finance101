@@ -14,7 +14,7 @@
 
 
 # Data Analysis
-I analyzed historical price data for multiple financial instruments, focusing on:
+Analyzed historical price data for multiple financial instruments, focusing on:
 
 - Calculating moving averages and Bollinger Bands
 - Implementing Go Flat and Go Short variations of Moving Average Crossover
